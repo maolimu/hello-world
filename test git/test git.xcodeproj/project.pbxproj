@@ -13,6 +13,7 @@
 		4DD1240F149E49140070DEF4 /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 4DD1240D149E49140070DEF4 /* Credits.rtf */; };
 		4DD12412149E49140070DEF4 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DD12411149E49140070DEF4 /* AppDelegate.m */; };
 		4DD12415149E49140070DEF4 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4DD12413149E49140070DEF4 /* MainMenu.xib */; };
+		4DD1241C149E4A2C0070DEF4 /* README in Resources */ = {isa = PBXBuildFile; fileRef = 4DD1241B149E4A2C0070DEF4 /* README */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		4DD12410149E49140070DEF4 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		4DD12411149E49140070DEF4 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		4DD12414149E49140070DEF4 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		4DD1241B149E4A2C0070DEF4 /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = README; path = ../README; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,6 +48,7 @@
 		4DD123EF149E49140070DEF4 = {
 			isa = PBXGroup;
 			children = (
+				4DD1241B149E4A2C0070DEF4 /* README */,
 				4DD12404149E49140070DEF4 /* test git */,
 				4DD123FD149E49140070DEF4 /* Frameworks */,
 				4DD123FB149E49140070DEF4 /* Products */,
@@ -156,6 +159,7 @@
 				4DD12409149E49140070DEF4 /* InfoPlist.strings in Resources */,
 				4DD1240F149E49140070DEF4 /* Credits.rtf in Resources */,
 				4DD12415149E49140070DEF4 /* MainMenu.xib in Resources */,
+				4DD1241C149E4A2C0070DEF4 /* README in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
